@@ -1,0 +1,37 @@
+[
+    {
+    "id": 1,
+    "name": "John",
+    "lname":"Walters",
+    "company":"tcs",
+    "cgpa": 5
+},
+{
+    "id": 2,
+    "name": "Bella",
+    "lname":"Stewers",
+    "company":"IBM",
+    "cgpa": 9
+},
+{
+    "id": 3,
+    "name": "Amanda",
+    "lname":"Roadies",
+    "company":"Amazon",
+    "cgpa": 7
+},
+{
+    "id": 4,
+    "name": "Erik",
+    "lname":"Grint",
+    "company":"Cognizant",
+    "cgpa": 8
+},
+{
+    "id": 5,
+    "name": "Ted",
+    "lname":"Picklers",
+    "company":"IBM",
+    "cgpa": 9
+}
+]
